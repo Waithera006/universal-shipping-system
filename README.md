@@ -208,7 +208,7 @@ for (ShippingItem item : items) {
 Each object behaves according to its actual type
 
 
-No need to know whether it is Electronic or Document
+No need to know whether it is Electronic or Document.
 
 
  
